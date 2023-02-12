@@ -37,6 +37,10 @@ footer h2 {
 footer h2 span {
   color: #06c167;
   font-weight: 600;
+
+}
+footer a{
+  text-decoration: none;
 }
 
 header .logo h1 {
